@@ -2,9 +2,9 @@
 Java ile kullanıcıdan dik kenarlarının uzunluğunu alan ve hipotenüsü hesaplayan programı yazın.Üç kenar uzunluğunu kullanıcıdan aldığınız üçgenin alanını hesaplayan programı yazınız.
 
 
-import  java.util.Scanner;
+    import  java.util.Scanner;
 
-public class Main {
+    public class Main {
     public static void main(String[] args) {
 
           int a,b;
